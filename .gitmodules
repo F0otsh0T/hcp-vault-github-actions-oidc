@@ -1,0 +1,3 @@
+[submodule "vault-action"]
+	path = vault-action
+	url = https://github.com/hashicorp/vault-action.git
